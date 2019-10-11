@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "outDir": "dist",
+    "isolatedModules": false,
+    "noEmit": false,
+    "esModuleInterop": true
+  },
+  "include": ["server/**/*.ts"]
+}
